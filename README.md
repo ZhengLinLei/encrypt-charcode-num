@@ -1,6 +1,6 @@
 # Encrypt.js  [![Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-**This repo is obsolete, update your encrypt system to the version v2. Please read [https://github.com/ZhengLinLei/encrypt-charcode-num-v2](https://github.com/ZhengLinLei/encrypt-charcode-num-v2) and check the new features added. Although you can read this documentation to be understanding the basics of encryption of this system**
+**This repo is deprecated, update your encrypt system to the version v2. Please read [https://github.com/ZhengLinLei/encrypt-charcode-num-v2](https://github.com/ZhengLinLei/encrypt-charcode-num-v2) and check the new features added. Although you can read this documentation to be understanding the basics of encryption of this system**
 
 ## How it does work?
 
